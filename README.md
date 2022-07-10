@@ -15,4 +15,4 @@ By selecting tectonic plates and major earthquakes the result appears less clutt
 When a user clicks on an earthquake marker or a tectonic plate, a pop-up provides more information.
 ![popup](https://github.com/laurlen2112/mapping_earthquakes/blob/main/resources/popups.png)
 
-The pop-up associated with the earthquake marker shows the magnitude and the location of the earthquake.  Additionally, the radius and color of the marker corresponds to the magnitude of the earthquake.  The pop-up associated with the tectonic plate shows the abbreviated name and a source of information on that plate.
+The pop-up associated with the earthquake marker shows the magnitude and the location of the earthquake.  Additionally, the radius and color of the marker corresponds to the magnitude of the earthquake.  The pop-up associated with the tectonic plate shows the abbreviated name of the boundary line and a source of information on that plate to provide a resource for further study.
