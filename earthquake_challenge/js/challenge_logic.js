@@ -234,7 +234,7 @@ legend.onAdd = function() {
     console.log(data);
     //add to map
     L.geoJSON(data, {
-      color: "#fbf8cc",
+      color: "#fff54c",
       weight: 3,
       onEachFeature: function(feature, layer) {
         layer.bindPopup("<h4>Plate Information:</h4><em>Name</em>: " + feature.properties.Name + "<br><em>Source</em>: " + feature.properties.Source);
@@ -244,5 +244,5 @@ legend.onAdd = function() {
     ).addTo(plates);
   
 plates.addTo(map);
-});
-});
+  });
+}); 
