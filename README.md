@@ -3,7 +3,7 @@
 ## Overview:
 The purpose of this challenge is to map earthquakes using a GeoJSON and to reflect the magnitude of the earthquake by marker size and color.
 
-This map provides 3 viewing styles: "Streets", "Satellite", and "Dark Style". Additionally, the map can display all data sets at once or display a combination of data sets by checking the boxes next to the data sets.  
+This map provides 3 viewing styles: "Streets", "Satellite", and "Dark Style". Additionally, the map can display all data sets at once or display a combination of data sets by selecting the boxes next to the data sets.  
 ![menu](https://github.com/laurlen2112/mapping_earthquakes/blob/main/resources/cropped%20menu.png)
 
 An example of each view with all data sets selected is provided below.
